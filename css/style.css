@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    .contact{
+        text-align: center;
+    padding: 45px;
+    text-transform: uppercase;
+    }
+    .wrapper{
+    
+    width: 80%;
+    
+    margin: auto;
+    }
+    .content{
+        height: 700px;
+    }
+    .body{
+        display: flex;
+        justify-content: space-between;
+        background: #9e9e9ed6;
+        border: 2px solid #aeaeae;
+        border-radius: 8px;
+    }
+    
+    .left_part{
+    
+        padding: 40px;
+        width: 50%;
+    }
+    .feature {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 9px;
+    }
+    
+
+.icon_box {
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: #ffffff96;
+    margin: auto;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+    
+.right_part {
+    width: 50%;
+}
+    .left_part h1{
+        ont-size: 24px;
+        text-align: center;
+        text-transform: capitalize;
+        color: white;
+    }
+    
+h4 {
+    text-align: center;
+    margin-top: 5px;
+    color: white;
+}
+    .feature_item p{
+    
+font-size: 16px;
+    
+text-align: center;
+    
+color: white;
+    }
+    .feature_item{
+    
+width: 30%;
+    
+margin-bottom: 16px;
+    
+margin-top: 10px;
+    
+justify-content: space-between;
+    
+align-items: center;
+    }
+    .feature_item a{
+    
+font-size: 17px;
+    
+display: flex;
+    
+text-decoration: none;
+    
+color: white;
+    }
+    .form{
+    
+    }
+    .email{
+    
+    }
+    .form p{
+        text-transform: capitalize;
+        color: white;
+        padding: 3px 0;
+    }
+    input form{
+    
+    }
+    textarea{
+        width: 100%;
+        background: transparent;
+        padding: 0px;
+        border: none;
+        border-bottom: 1px solid;
+        outline: none;
+    }
+    
+    .send input[type='submit']{
+        padding: 7px 19px;
+     
+        border: none;
+        border: 1px solid;
+        border-radius: 5px;
+        margin-top: 6px;
+    }
+    h2 {
+        color: white;
+        padding: 13px 0;
+        font-size: 16px;
+        
+   
+    }
+    li {
+        list-style: none;
+        margin-right: 13px;
+        color: white;
+        font-size: 10px;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: start;
+        font-size: 12px;
+    }
+img {
+    width: 100%;
+    display: block;
+}
+input[type="text"] {
+    width: 100%;
+    background: transparent;
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid;
+    outline: none;
+
+}
+input[type="Email"] {
+    width: 100%;
+    background: transparent;
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid;
+    outline: none;
+}
+input[type="subject"] {
+    width: 100%;
+    background: transparent;
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid;
+    outline: none
+}
