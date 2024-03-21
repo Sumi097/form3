@@ -131,6 +131,9 @@ color: white;
         
    
     }
+    input[type="submit"]:hover {
+        background: #8b8986;
+    }
     li {
         list-style: none;
         margin-right: 13px;
@@ -154,6 +157,13 @@ input[type="text"] {
     border: none;
     border-bottom: 1px solid;
     outline: none;
+
+} 
+li:hover {
+    color: black;
+    cursor: pointer;
+}
+ form input {
 
 }
 input[type="Email"] {
